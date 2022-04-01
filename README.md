@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on https://laborit.com.br/
-- 🌱 I’m currently learning AWS Cloud, NodeJs and JQuery.
+- 🌱 I’m currently learning NodeJs.
 - :heart: My Best skill is C# / ASP.NET
 - 📫 How to reach me: https://www.linkedin.com/in/richard-trage-b5b67b140/
 
