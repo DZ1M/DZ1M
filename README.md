@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on https://sinerlog.global/
 - :heart: My Best skill is C# / ASP.NET
-- 📫 How to reach me: https://www.linkedin.com/in/richard-trage-b5b67b140/
+- 📫 How to reach me: https://www.linkedin.com/in/richard-trage/
 
 
 ![Richard Trage GitHub stats](https://github-readme-stats.vercel.app/api?username=dz1m&count_private=true&show_icons=true&theme=tokyonight)
