@@ -8,7 +8,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on https://sinerlog.global/
 - :heart: My Best skill is C# / ASP.NET
 - 📫 How to reach me: https://www.linkedin.com/in/richard-trage/
 
